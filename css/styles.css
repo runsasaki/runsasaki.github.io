@@ -30,7 +30,7 @@ html { font-size: 100%; /* 1 */
 * elements. */
 html, button, input, select, textarea { font-family: sans-serif; }
 /* * Addresses margins handled incorrectly in IE 6/7. */
-body { margin: 0; font-family: 'Lato', sans-serif; overflow-x: hidden; }
+body { margin: 0; font-family: 'Lato', sans-serif; overflow-x: hidden; background-color: #81F7D8}
 html, body { width: auto !important; overflow-x: hidden !important; }
 /* ==========================================================================
 Links
@@ -199,7 +199,7 @@ p.text-intro { font-size: 18px; }
 nav { height: 85px; margin-top: 30px; position: relative; }
 .logo-holder { background: url(../img/main-logo.png) no-repeat center center; width: 94px; height: 85px; position: absolute; top: 0; left: 327px; }
 .responsive-logo { display: hidden; }
-header { background-color: #f4f5fc; }
+header { background-color: #81F7D8; }
 header ul { padding-top: 35px; }
 header ul li { list-style: none; float: left; text-transform: uppercase; letter-spacing: 2px; }
 header ul li a { display: block; margin: 0 30px; color: #4d4959; }
@@ -255,7 +255,7 @@ a.close-overlay.hidden { display: none }
 .signup-input { border: solid 1px #d3d7d9; padding: 25px; width: 65%; color: #929292; font-style: italic; letter-spacing: 1px; }
 .submit-btn { background-color: #64c29e; color: #fff; border: solid 1px #64c29e; font-weight: 300; padding: 25px 50px; }
 section.sign_up { padding: 40px 0 110px 0; }
-footer { background-color: #f7f7f7; padding: 100px 0; }
+footer { background-color: #81F7D8; padding: 100px 0; }
 footer p { font-size: 13px; margin: 0; }
 .footer-leftcol p { text-align: left; }
 .footer-rightcol p { text-align: right; font-style: italic; margin-top: 20px; }
