@@ -179,7 +179,8 @@ h2.mech { text-align: center; text-transform: uppercase; color: #353738; letter-
 h2.front-frame { text-align: center; text-transform: uppercase; color: #353738; letter-spacing: 2px; font-size: 18px; font-weight: 600; background: url(../img/front-icon.png) no-repeat top center; padding-top: 65px; margin-top: 70px; }
 h2.twitter-post-username { color: #353738; letter-spacing: 2px; font-size: 18px; font-weight: 600; margin-top: 30px; }
 h2.twitter-post-username span { color: #848789; font-weight: 300; }
-h2.logo-header { text-align: center; color: #848789; letter-spacing: 1px; font-size: 24px; font-weight: 300; background: url(../img/Clapperboard_set.png) no-repeat top center ; padding-top: 120px; margin: 70px 0 40px 0; font-style: italic; background-size: cover;}
+h2.logo-header { text-align: center; color: #848789; letter-spacing: 1px; font-size: 24px; font-weight: 300; /*background: url(../img/gradation.jpg); background-repeat: repeat-x;
+background-color: #FFFFFF;*/ top center ; padding-top: 120px; margin: 70px 0 40px 0; font-style: italic; background-size: cover;}
 /* ==========================================================================
 User Styles
 ========================================================================== */
@@ -253,10 +254,10 @@ a.close-overlay.hidden { display: none }
 .discover { background-color: #282f35; padding: 70px 0; text-align: center; }
 .shop-btn { border: solid 1px #bbb; padding: 15px 50px; color: #fff; text-transform: uppercase; letter-spacing: 3px; font-weight: 400; }
 .shop-btn:hover, .shop-btn:focus { border: solid 1px #64c29e; }
-.sign-up { text-align: center; }
+.sign-up { text-align: center;  }
 .signup-input { border: solid 1px #d3d7d9; padding: 25px; width: 65%; color: #929292; font-style: italic; letter-spacing: 1px; }
 .submit-btn { background-color: #64c29e; color: #fff; border: solid 1px #64c29e; font-weight: 300; padding: 25px 50px; }
-section.sign_up { padding: 40px 0 110px 0; }
+section.sign_up { padding: 40px 0 110px 0; background: url(../img/gradation.jpg); background-repeat: repeat-x; background-color: #FFFFFF;}
 footer { background-color: #81F7D8; padding: 100px 0; }
 footer p { font-size: 13px; margin: 0; }
 .footer-leftcol p { text-align: left; }
